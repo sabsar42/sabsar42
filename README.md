@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=sabsar42&color=blueviolet" alt="Profile Views" />
 
 <p>(Z_z) -> Visit me at :  
-<a href="https://sabsar42.github.io/Absar-s-Portfolio-Website/" target="_blank">My Portfolio</a></p>
+<a href="https://sabsar42.github.io/Absar-s-Portfolio-Website/" target="_blank">Shakib_Absar_Portfolio</a></p>
 
 <p>Hi, I'm Shakib Absar, a passionate software developer with a background in competitive programming, machine learning, and mobile app development. Currently, I'm expanding my skill set by learning Web Technologies and Backend. Here’s a snapshot of my technical expertise:</p>
 
@@ -10,11 +10,7 @@
   <li><strong>Languages</strong>: C, C++, Python, Java, Dart, JavaScript, HTML, CSS</li>
   <li><strong>Frameworks and Libraries</strong>: Node.js, Express, Flutter, React, TensorFlow, Keras</li>
   <li><strong>Databases</strong>: MySQL, MongoDB</li>
-  <li><strong>Tools</strong>: Git, GitHub, Android Studio, Jupyter Notebook, Postman, Figma</li>
-  <li><strong>Interests</strong>: Machine Learning and AI, Mobile App Development, Web Engineering, Backend Technology, Data Visualization, Sustainable Technology Solutions</li>
-</ul>
 
-<p>Let's connect and explore opportunities to innovate together. I'm always eager to collaborate on projects that make a difference and push the boundaries of what's possible.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
