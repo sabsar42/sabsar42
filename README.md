@@ -4,7 +4,16 @@
  (Z_z) -> Visit me at :  
 https://sabsar42.github.io/Absar-s-Portfolio-Website/
 
+Hi, I'm Shakib Absar, a passionate software developer with a background in competitive programming, machine learning, and mobile app development. Currently, I'm expanding my skill set by learning Web Technologies and Backend. Here’s a snapshot of my technical expertise:
 
+🌐 Languages: C, C++, Python, Java, Dart, JavaScript, HTML, CSS
+🚀 Frameworks and Libraries: Node.js, Express, Flutter, React, TensorFlow, Keras
+🗄️ Databases: MySQL, MongoDB
+🛠️ Tools: Git, GitHub, Android Studio, Jupyter Notebook, Postman, Figma
+💡 Interests: Machine Learning and AI, Mobile App Development, Web Engineering, Backend Technology, Data Visualization, Sustainable Technology Solutions
+
+
+et's connect and explore opportunities to innovate together. I'm always eager to collaborate on projects that make a difference and push the boundaries of what's possible.
 
 
 <h3 align="left">Connect with me:</h3>
