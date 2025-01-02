@@ -69,6 +69,11 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabsar42&show_icons=true&locale=en&layout=compact" alt="sabsar42" />
-</p>
+
+<!-- 📊 GitHub Stats: -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabsar42&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sabsar42&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabsar42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
