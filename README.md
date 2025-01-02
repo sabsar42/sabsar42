@@ -1,9 +1,25 @@
 <h2>Hi there 👋 Now I can track that you're sneaking into my profile 👇</h2>
 <img src="https://komarev.com/ghpvc/?username=sabsar42&color=blueviolet" alt="Profile Views" />
 
-<p>(Z_z) -> Visit me at :  
-<a href="https://sabsar42.github.io/Absar-s-Portfolio-Website/" target="_blank">Shakib_Absar_Portfolio</a></p>
+<p> <b>(Z_z) -> Visit me at :  
+<a href="https://sabsar42.github.io/Absar-s-Portfolio-Website/" target="_blank">Shakib_Absar_Portfolio</a></b> </p>
+<b> View My Resume : <a
+              href="https://drive.google.com/file/d/1EaKVFu-KOHYZdAY16xOQK1FSVVVBJD5K/view?usp=sharing"
+              target="_blank"
+            >
+              <button
+                class="btn"
+                style="
+                  background-color: rgb(244, 246, 252);
+                  color: rgb(19, 17, 17);
+                ">
+                Shakib-Absar-Resume
+              </button>
+            </a>
+</b>
+<br>
 
+<br>
 <p>Hi, I'm Shakib Absar, a passionate software developer with a background in competitive programming, machine learning, and mobile app development. Currently, I'm expanding my skill set by learning Web Technologies and Backend. Here’s a snapshot of my technical expertise:</p>
 
 <ul>
@@ -24,20 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
-<b> View My Resume : <a
-              href="https://drive.google.com/file/d/1EaKVFu-KOHYZdAY16xOQK1FSVVVBJD5K/view?usp=sharing"
-              target="_blank"
-            >
-              <button
-                class="btn"
-                style="
-                  background-color: rgb(244, 246, 252);
-                  color: rgb(19, 17, 17);
-                ">
-                Shakib-Absar-Resume
-              </button>
-            </a>
-</b>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
