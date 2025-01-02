@@ -24,7 +24,20 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
-
+<b> View My Resume : <a
+              href="https://drive.google.com/file/d/1EaKVFu-KOHYZdAY16xOQK1FSVVVBJD5K/view?usp=sharing"
+              target="_blank"
+            >
+              <button
+                class="btn"
+                style="
+                  background-color: rgb(244, 246, 252);
+                  color: rgb(19, 17, 17);
+                ">
+                Shakib-Absar-Resume
+              </button>
+            </a>
+</b>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
