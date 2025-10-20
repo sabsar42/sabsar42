@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=sabsar42&color=blueviolet" alt="Profile Views" />
 
 <p> <b>(Z_z) -> Visit me at :  
-<a href="https://sabsar42.github.io/Absar-s-Portfolio-Website/" target="_blank">Shakib_Absar_Portfolio</a></b> </p>
+<a href="https://shakibabsar.vercel.app/" target="_blank">Shakib_Absar_Portfolio</a></b> </p>
 <b> View My Resume : <a
               href="https://drive.google.com/file/d/1EaKVFu-KOHYZdAY16xOQK1FSVVVBJD5K/view?usp=sharing"
               target="_blank"
