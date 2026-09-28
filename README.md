@@ -1,4 +1,4 @@
-<h1 align="center"> call me Absar 👋</h1>
+<h1 align="center"> call me S.ABSAR 👋</h1>
 
 <p align="center">
   <b>Jr. AI/ML Engineer · Research Assistant</b><br>
@@ -17,8 +17,12 @@
   <a href="https://www.researchgate.net/profile/YOUR-PROFILE"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
   <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-b85c38?style=flat-square&color=b85c38" height="4" width="120">
+  <img src="https://img.shields.io/badge/-d9a441?style=flat-square&color=d9a441" height="4" width="120">
+  <img src="https://img.shields.io/badge/-6a8f7d?style=flat-square&color=6a8f7d" height="4" width="120">
+</p>
 
----
 
 ### About Me
 
@@ -36,20 +40,19 @@ I build **vision-language systems** and **agentic AI** pipelines, and adapt larg
 
 `Vision-Language Models` · `Agentic AI & Multi-Agent Systems` · `Foundation Model Adaptation (SAM, CLIP, Prithvi)` · `Parameter-Efficient Fine-Tuning (LoRA / QLoRA / PEFT)` · `Vision Transformers` · `Graph Neural Networks` · `RAG & LLM Evaluation` · `Remote Sensing`
 
----
 
-### Selected Publications
+## ▸ Selected Publications
 
 | Year | Venue | Work | Status |
 |:--|:--|:--|:--|
-| 2026 | **P2P-CV @ WACV** | [TFFM: Topology-Aware Feature Fusion via Latent Graph Reasoning for Retinal Vessel Segmentation](http://tffm-module.github.io/) | Accepted |
-| 2026 | **OMIA @ MICCAI** | TFFM+: Spatially-Aware Dynamic Graph Fusion for Topology-Preserving Retinal Vessel Segmentation | Under Review |
-| 2026 | **EMNLP (Short)** | Do LLM Agents Respect Therapeutic Boundaries? Evaluating Cross-System Drug Substitution Hallucination | Under Review |
-| 2026 | ***Scientific Data*** | A Freshwater Fish Dataset for Visual Recognition with Manually Localized ROIs and SAM-Derived Instance Masks | Accepted |
-| 2025 | **IEEE COMPAS** | [ViT-SAGE Hybrid: Transformer Patch Embeddings with GNN Aggregation for Kidney CT Classification](https://ieeexplore.ieee.org/document/11381879/) | Published |
-| 2025 | **IEEE BECITHCON** | [Multi-strategy optimization of U-Net variants for orthopantomogram segmentation](https://ieeexplore.ieee.org/document/11503995) | Published |
-| 2025 | **IEEE ISACC** | Performance Analysis of Tesseract and EasyOCR for Bangla OCR on the Bangla CrossHair Dataset | Published |
-| 2024 | **AAIML** | A Novel Ensemble-Based Deep Learning Model with Explainable AI for Kidney Disease Diagnosis | Published |
+| 2026 | **P2P-CV @ WACV** | [TFFM: Topology-Aware Feature Fusion via Latent Graph Reasoning for Retinal Vessel Segmentation](http://tffm-module.github.io/) | ![](https://img.shields.io/badge/Accepted-6a8f7d?style=flat-square&labelColor=3c3836) |
+| 2026 | **OMIA @ MICCAI** | TFFM+: Spatially-Aware Dynamic Graph Fusion for Topology-Preserving Retinal Vessel Segmentation | ![](https://img.shields.io/badge/Under%20Review-d9a441?style=flat-square&labelColor=3c3836) |
+| 2026 | **EMNLP (Short)** | Do LLM Agents Respect Therapeutic Boundaries? Evaluating Cross-System Drug Substitution Hallucination | ![](https://img.shields.io/badge/Under%20Review-d9a441?style=flat-square&labelColor=3c3836) |
+| 2026 | ***Scientific Data*** | A Freshwater Fish Dataset for Visual Recognition with Manually Localized ROIs and SAM-Derived Instance Masks | ![](https://img.shields.io/badge/Accepted-6a8f7d?style=flat-square&labelColor=3c3836) |
+| 2025 | **IEEE COMPAS** | [ViT-SAGE Hybrid: Transformer Patch Embeddings with GNN Aggregation for Kidney CT Classification](https://ieeexplore.ieee.org/document/11381879/) | ![](https://img.shields.io/badge/Published-b85c38?style=flat-square&labelColor=3c3836) |
+| 2025 | **IEEE BECITHCON** | [Multi-strategy optimization of U-Net variants for orthopantomogram segmentation](https://ieeexplore.ieee.org/document/11503995) | ![](https://img.shields.io/badge/Published-b85c38?style=flat-square&labelColor=3c3836) |
+| 2025 | **IEEE ISACC** | Performance Analysis of Tesseract and EasyOCR for Bangla OCR on the Bangla CrossHair Dataset | ![](https://img.shields.io/badge/Published-b85c38?style=flat-square&labelColor=3c3836) |
+| 2024 | **AAIML** | A Novel Ensemble-Based Deep Learning Model with Explainable AI for Kidney Disease Diagnosis | ![](https://img.shields.io/badge/Published-b85c38?style=flat-square&labelColor=3c3836) |
 
 📄 Full list on my [Google Scholar](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID) and in my [CV](./CV_of_Shakib_Absar.pdf).
 
