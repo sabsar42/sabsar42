@@ -28,14 +28,6 @@
 
 I build **vision-language systems** and **agentic AI** pipelines, and adapt large foundation models to domains where data is scarce, imbalanced, or structurally complex. Most of my work sits at the intersection of **multimodal understanding** and **parameter-efficient foundation model adaptation**.
 
-- 🔭 Currently a **Jr. AI/ML Engineer** at Indetechs Software Ltd. / Technovative Solutions (UK Remote), fine-tuning **SAM (ViT-H)** and **IBM Prithvi-2** with **LoRA** for satellite segmentation, and building **GeoSeg-VLM**, a multi-agent vision-language system for geospatial analysis.
-- 🔬 **Research Assistant** at InteX Research Lab and **Research Intern** at CCDS-MIRA Wing, building **VLM-ready datasets with VQA annotations** and transformer and graph-based segmentation frameworks.
-- 🤖 Also working on **LLM agent evaluation**, including a study on whether agents respect therapeutic boundaries under cross-system drug substitution, and production **RAG** pipelines with LangChain over 10K+ document vector stores.
-- 🎓 B.Sc. in Computer Science and Engineering, Leading University (CGPA 3.90 / 4.00).
-- 🎯 Applying for **fully funded PhD positions (Fall 2026)** in vision-language models, agentic AI, and multimodal foundation models.
-
----
-
 ### Research Interests
 
 `Vision-Language Models` · `Agentic AI & Multi-Agent Systems` · `Foundation Model Adaptation (SAM, CLIP, Prithvi)` · `Parameter-Efficient Fine-Tuning (LoRA / QLoRA / PEFT)` · `Vision Transformers` · `Graph Neural Networks` · `RAG & LLM Evaluation` · `Remote Sensing`
@@ -92,18 +84,7 @@ LLM-driven assistant that reads prescriptions via OCR and turns them into struct
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 </p>
 
----
 
-### Highlights
-
-- 🚀 Global Nominee, **NASA Space Apps Challenge 2024** (Team ORBITUS, top 947 of 9,900+ teams)
-- 🏅 **9th nationally**, 1282nd globally in IEEEXtreme 18.0 among 10,000+ teams
-- 💡 2nd Runner-Up, Collaborative AI Hackathon (SJ Innovation LLC, 2024)
-- 🧩 Finalist, Headstarter AI Hiring Hackathon (top 5% of 200+ teams)
-- 👨‍💻 Solved **1000+** competitive programming problems
-- 🎤 Former Chairperson, IEEE Computer Society LU Student Branch Chapter
-
----
 
 <!-- 📊 GitHub Stats: -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sabsar42&theme=github_dark&hide_border=true)
